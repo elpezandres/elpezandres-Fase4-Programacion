@@ -1,4 +1,4 @@
-# Sistema Integral Software FJ
+# Sistema Integral Software 
 
 Proyecto desarrollado en Python aplicando Programación Orientada a Objetos.
 
@@ -22,6 +22,6 @@ Servicios implementados:
 - Alquiler de equipos
 - Asesorías especializadas
 
-Integrantes:
+Integrante:
 
 - Fredy Andres
