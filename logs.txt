@@ -1,0 +1,6 @@
+2026-05-25 22:41:27,455 - ERROR - El nombre está vacío
+2026-05-25 22:41:27,455 - ERROR - Correo inválido
+2026-05-25 22:41:27,455 - ERROR - Las horas deben ser mayores a 0
+2026-05-25 22:41:27,455 - ERROR - Cliente inválido
+2026-05-25 22:41:27,455 - ERROR - Conversión inválida
+2026-05-25 22:41:27,455 - ERROR - Servicio no disponible
